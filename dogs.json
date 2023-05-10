@@ -3,51 +3,58 @@
   "AnimalName": "LUMI",
   "AnimalGender": "F",
   "AnimalBirthYear": 2019,
-  "BreedName": "Shih Tzu Crossbreed",
+  "BreedName": "ShihTzu ",
   "ZipCode": 11234,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "DUBU",
   "AnimalGender": "M",
   "AnimalBirthYear": 2017,
-  "BreedName": "Siberian Husky",
+  "BreedName": " Husky",
   "ZipCode": 11215,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/02/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/husky.jpeg"
 },
 {
   "AnimalName": "BATTAGLIA",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Bichon Frise Crossbreed",
+  "BreedName": "Bichon",
   "ZipCode": 10307,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "04/11/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
+
 },
 {
   "AnimalName": "ACE",
   "AnimalGender": "M",
   "AnimalBirthYear": 2007,
-  "BreedName": "Dalmation/Terrier/Poodle",
+  "BreedName": "Terrier",
   "ZipCode": 10314,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/03/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BEAU",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Labradoodle",
+  "BreedName": "Labrador",
   "ZipCode": 10011,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
+  
 },
 {
   "AnimalName": "RUFFLES",
@@ -57,67 +64,77 @@
   "ZipCode": 10024,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/10/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
+  
 },
 {
   "AnimalName": "REX",
   "AnimalGender": "M",
   "AnimalBirthYear": 2013,
-  "BreedName": "German Shepherd Dog",
+  "BreedName": "GermanShepherd ",
   "ZipCode": 11223,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/07/2027",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
+ 
 },
 {
   "AnimalName": "OTIS",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Labrador Retriever",
+  "BreedName": "Labrador",
   "ZipCode": 10304,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
+  
 },
 {
   "AnimalName": "GARCIA",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Bichon Frise Crossbreed",
+  "BreedName": "Bichon",
   "ZipCode": 11204,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "CHEWY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Yorkshire Terrier Crossbreed",
+  "BreedName": "Yorkshire",
   "ZipCode": 11691,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "CALI",
   "AnimalGender": "F",
   "AnimalBirthYear": 2017,
-  "BreedName": "Siberian Husky",
+  "BreedName": " Husky",
   "ZipCode": 11226,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/husky.jpeg"
 },
 {
   "AnimalName": "CC",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle, Miniature",
+  "BreedName": "Poodle",
   "ZipCode": 11206,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
@@ -128,7 +145,8 @@
   "ZipCode": 10005,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "10/03/2026",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "NAME NOT PROVIDED",
@@ -138,17 +156,19 @@
   "ZipCode": 11367,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/maltese.png"
 },
 {
   "AnimalName": "JUDD",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Wirehaired Pointing Griffon",
+  "BreedName": "Griffon",
   "ZipCode": 11231,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "JAXSON",
@@ -158,7 +178,8 @@
   "ZipCode": 11434,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MAYA",
@@ -168,7 +189,8 @@
   "ZipCode": 11101,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/golden.jpeg"
 },
 {
   "AnimalName": "NAME NOT PROVIDED",
@@ -178,37 +200,41 @@
   "ZipCode": 11223,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MOCHA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2009,
-  "BreedName": "Brussels Griffon",
+  "BreedName": "Griffon",
   "ZipCode": 11206,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/13/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "LUCKY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2014,
-  "BreedName": "Shih Tzu Crossbreed",
+  "BreedName": "ShihTzu ",
   "ZipCode": 10018,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/11/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "HASHTAG",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10033,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BOURBON",
@@ -218,58 +244,64 @@
   "ZipCode": 11377,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/02/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MUNDO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Siberian Husky Crossbreed",
+  "BreedName": " Husky",
   "ZipCode": 11427,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/husky.jpeg"
 },
 {
   "AnimalName": "DUKE",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Airedale Terrier",
+  "BreedName": "Terrier",
   "ZipCode": 11232,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
   "AnimalName": "MURRAY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Shih Tzu Crossbreed",
+  "BreedName": "ShihTzu ",
   "ZipCode": 10075,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BARAKOV",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Bichon Frise Crossbreed",
+  "BreedName": "Bichon",
   "ZipCode": 11385,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "OLIVE",
   "AnimalGender": "F",
   "AnimalBirthYear": 2014,
-  "BreedName": "Dachshund Crossbreed",
+  "BreedName": "Dachshund",
   "ZipCode": 10016,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/08/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "NAME NOT PROVIDED",
@@ -279,37 +311,41 @@
   "ZipCode": 11214,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "OLLER",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "French Bulldog",
+  "BreedName": "Bulldog",
   "ZipCode": 10009,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/bull.jpeg"
 },
 {
   "AnimalName": "MABEL",
   "AnimalGender": "F",
   "AnimalBirthYear": 2008,
-  "BreedName": "BOSTON TERR   X",
+  "BreedName": "Terrier",
   "ZipCode": 10033,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/29/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BELLA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2014,
-  "BreedName": "Siberian Husky Crossbreed",
+  "BreedName": " Husky",
   "ZipCode": 10029,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/husky.jpeg"
 },
 {
   "AnimalName": "LILY",
@@ -319,78 +355,86 @@
   "ZipCode": 10036,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/17/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MOMO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Shih Tzu",
+  "BreedName": "ShihTzu",
   "ZipCode": 11215,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/03/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
   "AnimalName": "BENNY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "French Bulldog",
+  "BreedName": "Bulldog",
   "ZipCode": 10001,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/21/2024",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/bull.jpeg"
 },
 {
   "AnimalName": "JUNIE",
   "AnimalGender": "F",
   "AnimalBirthYear": 2013,
-  "BreedName": "Yorkshire Terrier",
+  "BreedName": "Yorkshire",
   "ZipCode": 11229,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/30/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MADALENA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "Italian Greyhound",
+  "BreedName": "Greyhound",
   "ZipCode": 10024,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "NGO",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Maltese Crossbreed",
+  "BreedName": "Maltese",
   "ZipCode": 10305,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/maltese.png"
 },
 {
   "AnimalName": "BINGO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 11385,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "ROCCO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2014,
-  "BreedName": "Doberman Pinscher",
+  "BreedName": "Doberman",
   "ZipCode": 10306,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/02/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "PEANUT",
@@ -400,88 +444,97 @@
   "ZipCode": 10025,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MILO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10010,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2026",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "PANDA",
   "AnimalGender": "M",
   "AnimalBirthYear": 2013,
-  "BreedName": "Poodle, Toy",
+  "BreedName": "Poodle",
   "ZipCode": 11379,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/08/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MAXIMUS",
   "AnimalGender": "M",
   "AnimalBirthYear": 2017,
-  "BreedName": "American Bully",
+  "BreedName": "Bulldog",
   "ZipCode": 10303,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "10/11/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/bull.jpeg"
 },
 
 {
   "AnimalName": "LULU",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "German Shepherd Crossbreed",
+  "BreedName": "German Shepherd",
   "ZipCode": 11374,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/16/2027",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "JUNIOR",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 11418,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "WATSON",
   "AnimalGender": "M",
   "AnimalBirthYear": 2019,
-  "BreedName": "Welsh Corgi, Pembroke",
+  "BreedName": "Corgi",
   "ZipCode": 10001,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/04/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "LOLA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2018,
-  "BreedName": "Jack Russell Terrier",
+  "BreedName": "Terrier",
   "ZipCode": 10034,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "07/22/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MARSHALL",
   "AnimalGender": "M",
   "AnimalBirthYear": 2018,
-  "BreedName": "Labrador Retriever Crossbreed",
+  "BreedName": "Labrador",
   "ZipCode": 10011,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/06/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "SWEET",
@@ -491,38 +544,42 @@
   "ZipCode": 11355,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "11/15/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
   "AnimalName": "CONAN",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Border Terrier",
+  "BreedName": "Terrier",
   "ZipCode": 10009,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "TY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10302,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MAYA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2019,
-  "BreedName": "German Shepherd Dog",
+  "BreedName": "German Shepherd",
   "ZipCode": 10002,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "05/21/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
@@ -533,7 +590,8 @@
   "ZipCode": 10023,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/10/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "CHLOE",
@@ -543,17 +601,19 @@
   "ZipCode": 11237,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "04/11/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/maltese.png"
 },
 {
   "AnimalName": "HERSHEY",
   "AnimalGender": "F",
   "AnimalBirthYear": 2016,
-  "BreedName": "American Pit Bull Terrier/Pit Bull",
+  "BreedName": "PitBull",
   "ZipCode": 10016,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "CHI-CHI",
@@ -563,280 +623,308 @@
   "ZipCode": 10024,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "08/15/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "KENDRA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2016,
-  "BreedName": "Labrador Retriever Crossbreed",
+  "BreedName": "Labrador",
   "ZipCode": 10016,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "Lory",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 11103,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "PARKER",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Labrador Retriever Crossbreed",
+  "BreedName": "Golden Retriever",
   "ZipCode": 10309,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "OREO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Siberian Husky",
+  "BreedName": " Husky",
   "ZipCode": 10031,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/husky.jpeg"
 },
 {
   "AnimalName": "MAGGIE",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle, Toy",
+  "BreedName": "Poodle",
   "ZipCode": 11357,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "RUBIA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Yorkshire Terrier Crossbreed",
+  "BreedName": "Yorkshire",
   "ZipCode": 10457,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "CHARLIE",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10016,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "11/21/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "NAME NOT PROVIDED",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10314,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "ISABELLA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2008,
-  "BreedName": "Welsh Corgi, Pembroke",
+  "BreedName": "Corgi",
   "ZipCode": 11215,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/14/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "ELSA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Labrador Retriever",
+  "BreedName": "Labrador",
   "ZipCode": 10024,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "MAXIMUS",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "German Shepherd Dog",
+  "BreedName": "German Shepherd",
   "ZipCode": 10029,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2026",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "STANLEY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2016,
-  "BreedName": "Terrier mix",
+  "BreedName": "Terrier",
   "ZipCode": 10003,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/13/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "LILAC",
   "AnimalGender": "F",
   "AnimalBirthYear": 2010,
-  "BreedName": "Shih Tzu",
+  "BreedName": "ShihTzu",
   "ZipCode": 10036,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "05/18/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "LUCIA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle, Toy",
+  "BreedName": "Poodle",
   "ZipCode": 10029,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "HIGH",
   "AnimalGender": "F",
   "AnimalBirthYear": 2015,
-  "BreedName": "Norwich Terrier",
+  "BreedName": "Terrier",
   "ZipCode": 11374,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "11/10/2024",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
   "AnimalName": "TOBY",
   "AnimalGender": "M",
   "AnimalBirthYear": 2007,
-  "BreedName": "Poodle, Standard",
+  "BreedName": "Poodle",
   "ZipCode": 10023,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/09/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "NAME NOT PROVIDED",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10462,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "MARVELOUS",
   "AnimalGender": "M",
   "AnimalBirthYear": 2017,
-  "BreedName": "American Pit Bull Terrier/Pit Bull",
+  "BreedName": "Pit Bull",
   "ZipCode": 11206,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/24/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "LUNA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2021,
-  "BreedName": "Shih Tzu Crossbreed",
+  "BreedName": "ShihTzu",
   "ZipCode": 10458,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "DAISY",
   "AnimalGender": "F",
   "AnimalBirthYear": 2012,
-  "BreedName": "Yorkshire Terrier",
+  "BreedName": "Yorkshire",
   "ZipCode": 10314,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/11/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BUBBA",
   "AnimalGender": "M",
   "AnimalBirthYear": 2012,
-  "BreedName": "Labrador Retriever",
+  "BreedName": "Golden Retriever",
   "ZipCode": 10014,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/22/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "DEEBO",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "American Bully",
+  "BreedName": "Bulldog",
   "ZipCode": 10306,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/bull.jpeg"
 },
 {
   "AnimalName": "FRANKIE",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Poodle Crossbreed",
+  "BreedName": "Poodle",
   "ZipCode": 10010,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2026",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
   "AnimalName": "COCO",
   "AnimalGender": "F",
   "AnimalBirthYear": 2011,
-  "BreedName": "Labrador Retriever",
+  "BreedName": "Labrador",
   "ZipCode": 10314,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/06/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "KAI",
   "AnimalGender": "M",
   "AnimalBirthYear": 2013,
-  "BreedName": "Shih Tzu Crossbreed",
+  "BreedName": "ShihTzu ",
   "ZipCode": 10128,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2024",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
   "AnimalName": "PARKER",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Welsh Corgi, Pembroke",
+  "BreedName": "Corgi",
   "ZipCode": 11217,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2024",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "OLLIE",
   "AnimalGender": "F",
   "AnimalBirthYear": 2019,
-  "BreedName": "Poodle, Standard",
+  "BreedName": "Poodle",
   "ZipCode": 10308,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2024",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BAILEY",
@@ -846,7 +934,8 @@
   "ZipCode": 10023,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "AMELIA",
@@ -856,7 +945,8 @@
   "ZipCode": 11238,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
@@ -867,17 +957,19 @@
   "ZipCode": 11375,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "BROOKLYN",
   "AnimalGender": "M",
   "AnimalBirthYear": 2020,
-  "BreedName": "Bull Terrier",
+  "BreedName": "Terrier",
   "ZipCode": 11213,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/13/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 
@@ -885,21 +977,23 @@
   "AnimalName": "NAME NOT PROVIDED",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Yorkshire Terrier",
+  "BreedName": "Terrier",
   "ZipCode": 11420,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "JUNO",
   "AnimalGender": "F",
   "AnimalBirthYear": 2011,
-  "BreedName": "Shiba Inu",
+  "BreedName": "ShibaInu",
   "ZipCode": 10025,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "08/10/2024",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 
@@ -911,17 +1005,19 @@
   "ZipCode": 10010,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "KAISER",
   "AnimalGender": "F",
   "AnimalBirthYear": 2015,
-  "BreedName": "Shiba Inu",
+  "BreedName": "ShibaInu",
   "ZipCode": 10014,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/11/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 
 {
@@ -932,7 +1028,8 @@
   "ZipCode": 11222,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "02/07/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "SASSY",
@@ -942,37 +1039,41 @@
   "ZipCode": 11367,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "PETALS",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "Yorkshire Terrier",
+  "BreedName": "Yorkshire",
   "ZipCode": 10454,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "01/22/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/shitzup.jpeg"
 },
 {
   "AnimalName": "JONAH",
   "AnimalGender": "M",
   "AnimalBirthYear": 2021,
-  "BreedName": "Labrador Retriever",
+  "BreedName": "Golden Retriever",
   "ZipCode": 11693,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/labradorp.jpeg"
 },
 {
   "AnimalName": "MEDUSA",
   "AnimalGender": "F",
   "AnimalBirthYear": 2020,
-  "BreedName": "American Bully",
+  "BreedName": "Bulldog",
   "ZipCode": 10303,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/21/2022",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/bull.jpeg"
 },
 {
   "AnimalName": "MIKKO",
@@ -982,6 +1083,7 @@
   "ZipCode": 11756,
   "LicenseIssuedDate": "12/30/2021",
   "LicenseExpiredDate": "12/30/2023",
-  "Extract Year": 2022
+  "Extract Year": 2022,
+  "ImagePath": "img/golden.jpeg"
 }
 ]
