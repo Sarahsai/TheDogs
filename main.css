@@ -3,7 +3,7 @@
    font-family: 'Fontdiner Swanky', cursive;
   font-size: 5em;
   text-align: center;
-  color: black; /* hot pink */
+  color: black; 
 
 }
 
@@ -95,7 +95,7 @@ body {
 .nyc-health {
   position: absolute;
   top: 30%;
-  left: 0;
+  left: 15px;
   transform: translateY(-50%);
 }
 
@@ -144,11 +144,20 @@ body {
 }
 
 .bone{
-position:relative;
+position:absolute;
 margin-left: 615px;
-top: -31126px;
+top: 150px;
 
 
+}
+
+.paw {
+  width: 500px;
+  height: auto;
+  position: absolute;
+  top: -170px;
+  transform: rotate(-20deg) scale(0.3);
+  animation: tilt 4s linear infinite;
 }
 
 .paw{
@@ -157,15 +166,15 @@ top: -31126px;
   position: absolute;
   top: -170px;
   transform: rotate(-20deg) scale(0.3);
-animation: tilt 4s linear infinite;
+  animation: tilt 4s linear infinite;
 }
-
 
 .pawtwo{
   width: 3100px;
   position: absolute;
-  top: -110px;
-  transform: rotate(8deg) scale(0.3);
+  top: -150px;
+  transform: rotate(8deg) scale(0.6);
+  animation: tilt-two 4s linear infinite;
 }
 
 @keyframes tilt {
@@ -179,6 +188,19 @@ animation: tilt 4s linear infinite;
     transform: rotate(-20deg) scale(0.3);
   }
 }
+
+@keyframes tilt-two {
+  0% {
+    transform: rotate(8deg) scale(0.3);
+  }
+  50% {
+    transform: rotate(-8deg) scale(0.3);
+  }
+  100% {
+    transform: rotate(8deg) scale(0.3);
+  }
+}
+
 
 
 
@@ -239,8 +261,8 @@ img {
 }
 
 .image-button-container1 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 175px;
+  max-height: 175px;
 }
 
 .image-button-container2 {
@@ -250,8 +272,8 @@ img {
 }
 
 .image-button-container2 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 170px;
+  max-height: 170px;
 }
 .image-button-container3 {
   display: flex;
@@ -280,8 +302,8 @@ img {
 }
 
 .image-button-container5 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 180px;
+  max-height: 180px;
 }
 
 
@@ -292,8 +314,8 @@ img {
 }
 
 .image-button-container6 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 320px;
+  max-height: 320px;
 }
 
 
@@ -315,8 +337,8 @@ img {
 }
 
 .image-button-container8 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 120px;
+  max-height: 120px;
 }
 
 .image-button-container9 {
@@ -326,8 +348,8 @@ img {
 }
 
 .image-button-container9 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 200px;
+  max-height: 200px;
 }
 
 .image-button-container10 {
@@ -337,8 +359,8 @@ img {
 }
 
 .image-button-container10 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 
@@ -349,8 +371,8 @@ img {
 }
 
 .image-button-container11 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 175px;
+  max-height: 175px;
 }
 
 .image-button-container12 {
@@ -380,8 +402,8 @@ img {
 }
 
 .image-button-container14 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
 }
 .image-button-container15 {
   display: flex;
@@ -390,8 +412,8 @@ img {
 }
 
 .image-button-container15 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 175px;
+  max-height: 175px;
 }
 .image-button-container16 {
   display: flex;
@@ -400,19 +422,10 @@ img {
 }
 
 .image-button-container16 img {
-  max-width: 100px;
-  max-height: 100px;
-}
-.image-button-container17 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  max-width: 150px;
+  max-height: 150px;
 }
 
-.image-button-container17 img {
-  max-width: 100px;
-  max-height: 100px;
-}
 .image-button-container18 {
   display: flex;
   flex-direction: column;
@@ -420,8 +433,8 @@ img {
 }
 
 .image-button-container18 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 180px;
+  max-height: 180px;
 }
 .image-button-container19 {
   display: flex;
@@ -430,8 +443,8 @@ img {
 }
 
 .image-button-container19 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 .image-button-container20 {
@@ -441,8 +454,8 @@ img {
 }
 
 .image-button-container20 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
 }
 .image-button-container21 {
   display: flex;
@@ -451,8 +464,8 @@ img {
 }
 
 .image-button-container21 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 175px;
+  max-height: 175px;
 }
 .image-button-container22 {
   display: flex;
@@ -461,8 +474,8 @@ img {
 }
 
 .image-button-container22 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
 }
 .image-button-container23 {
   display: flex;
@@ -481,8 +494,8 @@ img {
 }
 
 .image-button-container24 img {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 .image-button-container25 {
@@ -586,3 +599,73 @@ p {
   margin-bottom: 0;
 }
 
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  h3 {
+    font-size: 1.2em;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  #grid-container {
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+
+  .animation-container {
+    display: none;
+  }
+
+  .nyc-health {
+    position: static;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .nyc,
+  .health {
+    display: block;
+    font-size: 1.5rem;
+    padding: 0.2rem;
+  }
+
+  .bone {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .paw {
+    display: none;
+  }
+
+  .pawtwo {
+    width: 100%;
+    max-width: 300px;
+    transform: none;
+  }
+
+  button {
+    font-size: 0.8rem;
+    padding: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .image-button-container {
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .image-button-container1 img,
+  .image-button-container2 img {
+    max-width: 80px;
+    max-height: 80px;
+  }
+}
+
+body {
+  cursor: url('img/paw.png'), auto;
+}
